@@ -1,0 +1,34 @@
+{
+    "events": [
+        {
+            "id": 824,
+            "category": "canine welfare",
+            "title": "Doggo Adoption Day",
+            "description": "Find your best friend doggo at this event.",
+            "location": "San Deedoggo",
+            "date": "January 4th, 2022",
+            "time": "10:00",
+            "organizer": "Indiana Bones"
+        },
+        {
+            "id": 342,
+            "category": "food",
+            "title": "Community BBQ",
+            "description": "Join us as we grill out and grub down at the community center.",
+            "location": "BBQ Town",
+            "date": "February 9th, 2022",
+            "time": "12:00",
+            "organizer": "Guy Fieri"
+        },
+        {
+            "id": 989,
+            "category": "environment",
+            "title": "Hug A Tree",
+            "description": "We love the Earth, and we're going to show it.",
+            "location": "Where Trees Grow",
+            "date": "March 11th, 2022",
+            "time": "All-day",
+            "organizer": "Hip Pee"
+        }
+    ]
+}
